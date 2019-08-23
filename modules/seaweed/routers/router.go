@@ -1,8 +1,8 @@
 package routers
 
 import (
-	"seagulls/api/v1"
 	"github.com/gin-gonic/gin"
+	"github.com/slzcc/seagulls/api/v1"
 )
 
 func LRouter(router *gin.Engine) {

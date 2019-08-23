@@ -1,8 +1,8 @@
 package v1
 
 import (
-	"seagulls/controllers"
 	"github.com/gin-gonic/gin"
+	"github.com/slzcc/seagulls/seaweed/controllers"
 )
 
 // API v1 Routers

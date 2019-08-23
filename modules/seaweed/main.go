@@ -1,8 +1,8 @@
-package main
+package seaweed
 
 import (
-	LRouter "seagulls/routers"
 	"github.com/gin-gonic/gin"
+	LRouter "github.com/slzcc/seagulls/seaweed/routers"
 )
 
 func main(){
